@@ -1,0 +1,147 @@
+{
+    "host": "https://yande.re",
+    "logo": "https://assets.yande.re/assets/logo_small-418e8d5ec0229f274edebe4af43b01aa29ed83b715991ba14bb41ba06b5b57b5.png",
+    "allow_ratings": [
+        "s",
+        "q",
+        "e"
+    ],
+    "home": [
+        {
+            "rating": "s",
+            "name": "Recent Posts",
+            "url": "<host>/post.json?limit=100&tags=rating:safe",
+            "build_path": "../"
+        },
+        {
+            "rating": "q",
+            "name": "Recent Questionable Posts",
+            "url": "<host>/post.json?limit=100&tags=rating:questionable",
+            "build_path": "../q/"
+        },
+        {
+            "rating": "e",
+            "name": "Recent Explicit Posts",
+            "url": "<host>/post.json?limit=100&tags=rating:explicit",
+            "build_path": "../e/"
+        }
+    ],
+    "categoaries": [
+        {
+            "tags": [
+                "rating:safe"
+            ],
+            "build_path": "../c/hot/"
+        },
+        {
+            "tags": [
+                "rating:questionable"
+            ],
+            "build_path": "../c/hot/"
+        },
+        {
+            "tags": [
+                "rating:explicit"
+            ],
+            "build_path": "../c/hot/"
+        },
+        {
+            "name": "Hot",
+            "build_path": "../c/hot/",
+            "view": "hscore",
+            "disard": "old"
+        },
+        {
+            "name": "Touhou",
+            "tags": [
+                "touhou"
+            ],
+            "build_path": "../c/touhou/",
+            "disard": "old",
+            "audio": [
+                {
+                    "name": "Gensokyo Radio",
+                    "artist": "Gensokyo Radio",
+                    "loop": "one",
+                    "url": "http://118.24.151.185:8000/1/",
+                    "cover": "https://gensokyoradio.net/images/assets/gr-logo.png"
+                },
+                {
+                    "name": "Gensokyo Radio Backup Link",
+                    "artist": "Gensokyo Radio",
+                    "loop": "one",
+                    "url": "http://118.24.151.185:8001/1/",
+                    "cover": "https://gensokyoradio.net/images/assets/gr-logo.png"
+                }
+            ],
+            "characters": [
+                "remilia_scarlet"
+            ]
+        },
+        {
+            "name": "S.A.O.",
+            "tags": [
+                "sword_art_online"
+            ],
+            "build_path": "../c/sao/",
+            "discard": "old"
+        },
+        {
+            "name": "Scenic",
+            "tags": [
+                "scenic"
+            ],
+            "build_path": "../c/scenic/",
+            "disard": "old"
+        }
+    ],
+    "artists": [
+        "natsumoka",
+        "anmi",
+        "annin_doufu",
+        "miwabe_sakura",
+        "edel_(qi--yu)",
+        "sousouman",
+        "ke-ta",
+        "mauve",
+        "onineko",
+        "miyase_mahiro",
+        "kino_(kino_konomi)",
+        "ryo",
+        "mivit",
+        "hiten_goane_ryu",
+        "fujisaki_hikari",
+        "higandgk",
+        "lium",
+        "dead_line",
+        "mayogii",
+        "dekitani",
+        "ogata_tei",
+        "kedama_milk",
+        "ayakura_juu",
+        "refeia",
+        "swordsouls",
+        "yoruneko",
+        "ru_zhai",
+        "criin_(659503)",
+        "wlop",
+        "cangkong"
+    ],
+    "loadonce": [
+        {
+            "url": "<host>/post.json?limit=100&tags=nekopara+game_cg&page=2",
+            "build_path": "../c/nekopara_gamecg/"
+        },
+        {
+            "name": "Nekopara Game CG",
+            "url": "<host>/post.json?limit=100&tags=nekopara+game_cg",
+            "build_path": "../c/nekopara_gamecg/",
+            "disard": "old"
+        },
+        {
+            "name": "Scenic | Origional Sunset H-Score",
+            "url": "<host>/post.json?limit=100&tags=sunset+order:score+scenic+original",
+            "build_path": "../c/scenic/origional_sunset_hscore/"
+        }
+    ]
+}
