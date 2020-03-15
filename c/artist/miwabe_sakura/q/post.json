@@ -17,7 +17,7 @@
         "has_children": false,
         "height": 1920,
         "id": 614504,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/361feab39b46166fbc2ff1c8183021e2/yande.re%20614504%20sample%20animal_ears%20cream%20lingerie%20miwabe_sakura%20seifuku%20tagme.jpg",
         "sample_width": 1097,
-        "score": 24,
+        "score": 28,
         "source": "",
         "status": "active",
         "tags": "animal_ears cream lingerie miwabe_sakura seifuku tagme",
-        "updated_at": 1583023015,
+        "updated_at": 1584249885,
         "width": 1404
     },
     {
