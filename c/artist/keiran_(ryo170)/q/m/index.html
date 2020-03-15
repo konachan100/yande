@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer">
+    <title>Konachan100</title>
+    
+    <style>
+        body {
+            background: #222222;
+        }
+
+        .img_frame {
+            padding-bottom: 5%;
+        }
+
+        .post_img {
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        #footer {
+            clear: both;
+            padding: 5%;
+        }
+
+        #links {
+            position: fixed;
+            bottom: 5%;
+            right: 5%;
+            padding: 1%;
+        }
+
+        .linkitem {
+            background-color: wheat;
+            margin: -10%;
+            text-align: center;
+        }
+
+        .linkspace {
+            padding: 60%;
+        }
+
+        #footer {
+            clear: both;
+            padding: 5%;
+        }
+
+        #links {
+            position: fixed;
+            bottom: 5%;
+            right: 5%;
+            padding: 1%;
+        }
+
+        .linkitem {
+            background-color: wheat;
+            margin: -10%;
+            text-align: center;
+        }
+
+        .linkspace {
+            padding: 60%;
+        }
+
+        .linkbtn {
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            border: none;
+            font-size: 4rem;
+        }
+
+        #aplayer {
+            transform: scale(2);
+            transform-origin: left bottom;
+        }
+    </style>
+    <script>
+        function chkHistoryPattern(arr) {
+            let result = false
+
+            for (let i = 0; i < arr.length; i++) {
+                sp = arr[i].split('?')
+                if (sp.length > 1) {
+                    sp = sp[1].split('&')
+                    for (let j = 0; j < sp.length; j++) {
+                        if (sp[j] == 'unlockeq') {
+                            result = true
+                            break
+                        }
+                    }
+                    if (result) {
+                        break
+                    }
+                }
+            }
+            return result
+        }
+
+        function readCookieCfg() {
+            var sp = document.cookie.split(';')
+            var result = []
+            for (let i = 0; i < sp.length; i++) {
+                var sp2 = sp[i].trim().split('=')
+                if (sp2.length > 1) {
+                    if (sp2[1] == 'k100_visited') {
+                        result.push(sp2[0])
+                    }
+                }
+            }
+            return result
+        }
+
+
+        var url_visited = readCookieCfg()
+
+        window.extraContentUnlocked = chkHistoryPattern(url_visited)
+    </script>
+    
+    <script>
+        if (window.extraContentUnlocked != true) {
+            window.location = '/'
+        }
+    </script>
+    
+
+</head>
+
+<body>
+    <img src="https://assets.yande.re/assets/logo_small-418e8d5ec0229f274edebe4af43b01aa29ed83b715991ba14bb41ba06b5b57b5.png" style="width: 100%; margin-left: -10%">
+
+    
+
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/1d7caf7d1fcb2ac854d2818d266b78f8/yande.re%20605828%20animal_ears%20dress%20heterochromia%20keiran_%28ryo170%29%20neko%20nekomimi%20no_bra%20tail.png" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/1d/7c/1d7caf7d1fcb2ac854d2818d266b78f8.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/2ff0e746edce90e85d50f4924ef9b894/yande.re%20605732%20animal_ears%20cleavage%20keiran_%28ryo170%29%20nekomimi%20no_bra%20open_shirt.png" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/2f/f0/2ff0e746edce90e85d50f4924ef9b894.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/c9fb48022660f5b83600f6dba19b3c95/yande.re%20605731%20animal_ears%20bra%20breast_hold%20garter%20keiran_%28ryo170%29%20kyaru_%28princess_connect%29%20pantsu%20panty_pull%20princess_connect%20shimapan%20string_panties%20tail%20thighhighs.jpg" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/c9/fb/c9fb48022660f5b83600f6dba19b3c95.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/9698ea87fd23df5b3a29b330230a3319/yande.re%20565929%20bra%20cleavage%20keiran_%28ryo170%29%20pantsu%20thighhighs.jpg" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/96/98/9698ea87fd23df5b3a29b330230a3319.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/7f9e8bc455af264a8fd7deab0c289602/yande.re%20502481%20animal_ears%20bike_shorts%20hinata_channel%20keiran_%28ryo170%29%20nekomimi%20nekomiya_hinata%20no_bra%20thighhighs.jpg" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/7f/9e/7f9e8bc455af264a8fd7deab0c289602.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/7313d560d3b8c4b08806dd44a21813aa/yande.re%20489597%20keiran_%28ryo170%29%20pantsu%20sweater%20thighhighs.jpg" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/73/13/7313d560d3b8c4b08806dd44a21813aa.jpg">
+        </a>
+    </div>
+    
+    <div class="img_frame">
+        <a href="https://files.yande.re/image/e8a865d9513c3658cbed4346597745bf/yande.re%20488618%20azur_lane%20cleavage%20japanese_clothes%20keiran_%28ryo170%29%20no_bra%20open_shirt%20taihou_%28azur_lane%29%20thighhighs.jpg" target="_blank">
+            <img class="post_img" src="https://assets.yande.re/data/preview/e8/a8/e8a865d9513c3658cbed4346597745bf.jpg">
+        </a>
+    </div>
+    
+
+    
+    
+    <div id="footer">
+        <div id="links">
+            <div class="linkitem">
+                <button class="linkbtn" onclick="window.location='../../'">S</button>
+            </div>
+            <div class="linkspace"></div>
+            <div class="linkitem">
+                <button class="linkbtn" onclick="window.location='../../e'">E</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <script>
+        if (window.extraContentUnlocked != true) {
+            var lnk = document.getElementById('links')
+            lnk.remove()
+        }
+    </script>
+    
+</body>
+
+</html>
