@@ -93,6 +93,14 @@
             ],
             "build_path": "../c/scenic/",
             "disard": "old"
+        },
+        {
+            "name": "Princess Connect",
+            "tags": [
+                "princess_connect"
+            ],
+            "build_path": "../c/princess_connect/",
+            "discard": "old"
         }
     ],
     "artists": [
