@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 234,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Mr_GT",
-        "change": 3252578,
+        "change": 3260471,
         "created_at": 1584074481,
         "creator_id": 25882,
         "file_ext": "png",
         "file_size": 2020240,
         "file_url": "https://files.yande.re/image/b6bedc6e4010ce91e7cbb8916c989496/yande.re%20617818%20cleavage%20kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~%20shirogane_kei%20swordsouls.png",
-        "flag_detail": {
-            "created_at": "2020-03-13T04:41:21.393Z",
-            "flagged_by": "system",
-            "post_id": 617818,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -47,9 +40,9 @@
         "sample_width": 1168,
         "score": 12,
         "source": "https://i-f.pximg.net/img-original/img/2020/03/13/13/39/24/80083661_p0.png",
-        "status": "pending",
+        "status": "active",
         "tags": "cleavage kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~ shirogane_kei swordsouls",
-        "updated_at": 1584074489,
+        "updated_at": 1584471371,
         "width": 1187
     },
     {
