@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 195,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "kotorilau",
-        "change": 3256227,
+        "change": 3260517,
         "created_at": 1584267759,
         "creator_id": 305535,
         "file_ext": "jpg",
         "file_size": 130922,
         "file_url": "https://files.yande.re/image/e3f20704e1215176388ebcbaed3a9bc1/yande.re%20618528%20anmi%20cleavage%20heels%20thighhighs.jpg",
-        "flag_detail": {
-            "created_at": "2020-03-15T10:22:39.948Z",
-            "flagged_by": "system",
-            "post_id": 618528,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -45,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/e3f20704e1215176388ebcbaed3a9bc1/yande.re%20618528%20sample%20anmi%20cleavage%20heels%20thighhighs.jpg",
         "sample_width": 976,
-        "score": 14,
+        "score": 22,
         "source": "https://twitter.com/b_kira_1/status/1235521821077680130",
-        "status": "pending",
+        "status": "active",
         "tags": "anmi cleavage heels thighhighs",
-        "updated_at": 1584267766,
+        "updated_at": 1584471651,
         "width": 1024
     },
     {
