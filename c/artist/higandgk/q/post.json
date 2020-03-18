@@ -326,12 +326,19 @@
         "actual_preview_width": 169,
         "approver_id": null,
         "author": "BattlequeenYume",
-        "change": 3261535,
+        "change": 3261970,
         "created_at": 1583065505,
         "creator_id": 323282,
         "file_ext": "jpg",
         "file_size": 891951,
         "file_url": "https://files.yande.re/image/be8962b4cd7ead7fef3d362c2b7ab7b8/yande.re%20614664%20artist_revision%20chinadress%20heels%20higandgk%20no_bra%20nopan%20see_through%20thighhighs.jpg",
+        "flag_detail": {
+            "created_at": "2020-03-18T19:32:47.537Z",
+            "flagged_by": "Dreista",
+            "post_id": 614664,
+            "reason": "Artist revision",
+            "user_id": 335993
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -362,9 +369,9 @@
         "sample_width": 844,
         "score": 109,
         "source": "https://i-f.pximg.net/img-original/img/2020/03/01/14/57/39/79798001_p0.jpg",
-        "status": "active",
+        "status": "flagged",
         "tags": "artist_revision chinadress heels higandgk no_bra nopan see_through thighhighs",
-        "updated_at": 1584538363,
+        "updated_at": 1584559967,
         "width": 2302
     },
     {
