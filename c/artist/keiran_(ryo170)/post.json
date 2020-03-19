@@ -142,12 +142,19 @@
         "actual_preview_width": 214,
         "approver_id": null,
         "author": "hiroimo2",
-        "change": 3254936,
+        "change": 3263034,
         "created_at": 1584200269,
         "creator_id": 225185,
         "file_ext": "jpg",
         "file_size": 625730,
         "file_url": "https://files.yande.re/image/18596aa17d809210f729275ee9680f27/yande.re%20618308%20keiran_%28ryo170%29%20seifuku%20skirt_lift.jpg",
+        "flag_detail": {
+            "created_at": "2020-03-19T19:21:22.542Z",
+            "flagged_by": "hiroimo2",
+            "post_id": 618308,
+            "reason": "twitter copy",
+            "user_id": 225185
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -178,9 +185,9 @@
         "sample_width": 1071,
         "score": 40,
         "source": "https://twitter.com/s_keiran/status/1238758955792252934",
-        "status": "active",
+        "status": "flagged",
         "tags": "keiran_(ryo170) seifuku skirt_lift",
-        "updated_at": 1584200319,
+        "updated_at": 1584645682,
         "width": 2314
     },
     {
