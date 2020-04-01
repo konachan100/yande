@@ -48,21 +48,14 @@
     {
         "actual_preview_height": 123,
         "actual_preview_width": 300,
-        "approver_id": null,
+        "approver_id": 11598,
         "author": "zyll",
-        "change": 3238011,
+        "change": 3281967,
         "created_at": 1583242284,
         "creator_id": 332663,
         "file_ext": "png",
         "file_size": 1500158,
         "file_url": "https://files.yande.re/image/72eb30c6584e1262fc0d6e07143cf569/yande.re%20615159%20hiten%20kakuyomu%20pantyhose%20tagme.png",
-        "flag_detail": {
-            "created_at": "2020-03-03T13:31:24.360Z",
-            "flagged_by": "system",
-            "post_id": 615159,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -93,9 +86,9 @@
         "sample_width": 1500,
         "score": 3,
         "source": "",
-        "status": "pending",
+        "status": "active",
         "tags": "hiten kakuyomu pantyhose tagme",
-        "updated_at": 1583242299,
+        "updated_at": 1585779751,
         "width": 2000
     },
     {
