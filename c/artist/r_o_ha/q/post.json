@@ -17,7 +17,7 @@
         "has_children": false,
         "height": 2655,
         "id": 623235,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/d9a4c468feff8f6f1676f620d23986ac/yande.re%20623235%20sample%20pajama%20r_o_ha.jpg",
         "sample_width": 1130,
-        "score": 4,
+        "score": 23,
         "source": "https://twitter.com/R_o_ha/status/1245640304381681671/",
         "status": "active",
         "tags": "pajama r_o_ha",
-        "updated_at": 1585819760,
+        "updated_at": 1585839791,
         "width": 2000
     },
     {
