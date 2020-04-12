@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 194,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Mr_GT",
-        "change": 3289918,
+        "change": 3296878,
         "created_at": 1586263108,
         "creator_id": 25882,
         "file_ext": "jpg",
         "file_size": 1047169,
         "file_url": "https://files.yande.re/image/de3821898111b9863da66bc4f3ea03f0/yande.re%20624383%20ak-12_%28girls_frontline%29%20cleavage%20girls_frontline%20open_shirt%20ru_zhai.jpg",
-        "flag_detail": {
-            "created_at": "2020-04-07T12:38:28.249Z",
-            "flagged_by": "system",
-            "post_id": 624383,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -45,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/de3821898111b9863da66bc4f3ea03f0/yande.re%20624383%20sample%20ak-12_%28girls_frontline%29%20cleavage%20girls_frontline%20open_shirt%20ru_zhai.jpg",
         "sample_width": 968,
-        "score": 8,
+        "score": 15,
         "source": "https://i.pximg.net/img-original/img/2020/04/07/19/26/12/80629711_p0.jpg",
-        "status": "pending",
+        "status": "active",
         "tags": "ak-12_(girls_frontline) cleavage girls_frontline open_shirt ru_zhai",
-        "updated_at": 1586263124,
+        "updated_at": 1586706829,
         "width": 1080
     },
     {
