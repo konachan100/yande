@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 217,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Dreista",
-        "change": 3297745,
+        "change": 3299853,
         "created_at": 1586765951,
         "creator_id": 335993,
         "file_ext": "jpg",
         "file_size": 925634,
         "file_url": "https://files.yande.re/image/0e6ff5a427271affe65ff5facd4e97e9/yande.re%20625940%20kawashiro_nitori%20mivit%20skirt_lift%20touhou.jpg",
-        "flag_detail": {
-            "created_at": "2020-04-13T08:19:11.654Z",
-            "flagged_by": "system",
-            "post_id": 625940,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -47,9 +40,9 @@
         "sample_width": 1086,
         "score": 2,
         "source": "https://www.pixiv.net/artworks/56136139",
-        "status": "pending",
+        "status": "active",
         "tags": "kawashiro_nitori mivit skirt_lift touhou",
-        "updated_at": 1586765959,
+        "updated_at": 1586889366,
         "width": 1100
     },
     {
