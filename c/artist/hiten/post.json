@@ -17,7 +17,7 @@
         "has_children": true,
         "height": 2958,
         "id": 626176,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/c29868770e0802d96d9ac7f8c588b4bd/yande.re%20626176%20sample%20hiten%20neko%20yukata.jpg",
         "sample_width": 1053,
-        "score": 26,
+        "score": 32,
         "source": "",
         "status": "active",
         "tags": "hiten neko yukata",
-        "updated_at": 1586898336,
+        "updated_at": 1587307237,
         "width": 2076
     },
     {
