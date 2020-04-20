@@ -55,21 +55,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 187,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Dreista",
-        "change": 3300963,
+        "change": 3308443,
         "created_at": 1586893615,
         "creator_id": 335993,
         "file_ext": "jpg",
         "file_size": 1035003,
         "file_url": "https://files.yande.re/image/7eedffe8b4be9116613c293a4b6d4c91/yande.re%20626454%20animal_ears%20bunny_ears%20mivit%20see_through%20thighhighs.jpg",
-        "flag_detail": {
-            "created_at": "2020-04-14T19:46:55.505Z",
-            "flagged_by": "system",
-            "post_id": 626454,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -100,9 +93,9 @@
         "sample_width": 934,
         "score": 3,
         "source": "https://www.pixiv.net/artworks/55261872",
-        "status": "pending",
+        "status": "active",
         "tags": "animal_ears bunny_ears mivit see_through thighhighs",
-        "updated_at": 1586893623,
+        "updated_at": 1587393582,
         "width": 1016
     },
     {
