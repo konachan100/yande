@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 150,
         "actual_preview_width": 300,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Dreista",
-        "change": 3300975,
+        "change": 3317509,
         "created_at": 1586893674,
         "creator_id": 335993,
         "file_ext": "png",
         "file_size": 2387370,
         "file_url": "https://files.yande.re/image/47ed400bdc19bb48984e00db8753413d/yande.re%20626464%20landscape%20mivit%20pixiv_fantasia_t.png",
-        "flag_detail": {
-            "created_at": "2020-04-14T19:47:55.024Z",
-            "flagged_by": "system",
-            "post_id": 626464,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -45,11 +38,11 @@
         "sample_height": 750,
         "sample_url": "https://files.yande.re/sample/47ed400bdc19bb48984e00db8753413d/yande.re%20626464%20sample%20landscape%20mivit%20pixiv_fantasia_t.jpg",
         "sample_width": 1500,
-        "score": 4,
+        "score": 9,
         "source": "https://www.pixiv.net/artworks/56582024",
-        "status": "pending",
+        "status": "active",
         "tags": "landscape mivit pixiv_fantasia_t",
-        "updated_at": 1586893693,
+        "updated_at": 1587988611,
         "width": 1800
     },
     {
