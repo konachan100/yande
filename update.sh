@@ -11,6 +11,6 @@ cd src
 bash gen.sh
 cd ..
 git diff --stat
-git add *
+git add .
 git commit -m "update content"
 git push
