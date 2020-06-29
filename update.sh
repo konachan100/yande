@@ -10,7 +10,7 @@ fi
 cd src
 bash gen.sh
 cd ..
-git diff --stat
+#git diff --stat
 git add .
 git commit -m "update content"
 git push
