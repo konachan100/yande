@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer">
+    <title>Konachan100</title>
+    
+    <style>
+        body {
+            background: #222222;
+        }
+
+        .img_frame {
+            padding-bottom: 5%;
+        }
+
+        .post_img {
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        #footer {
+            clear: both;
+            padding: 5%;
+        }
+
+        #links {
+            position: fixed;
+            bottom: 5%;
+            right: 5%;
+            padding: 1%;
+        }
+
+        .linkitem {
+            background-color: wheat;
+            margin: -10%;
+            text-align: center;
+        }
+
+        .linkspace {
+            padding: 60%;
+        }
+
+        #footer {
+            clear: both;
+            padding: 5%;
+        }
+
+        #links {
+            position: fixed;
+            bottom: 5%;
+            right: 5%;
+            padding: 1%;
+        }
+
+        .linkitem {
+            background-color: wheat;
+            margin: -10%;
+            text-align: center;
+        }
+
+        .linkspace {
+            padding: 60%;
+        }
+
+        .linkbtn {
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            border: none;
+            font-size: 4rem;
+        }
+
+        #aplayer {
+            transform: scale(2);
+            transform-origin: left bottom;
+        }
+    </style>
+    <script>
+        function chkHistoryPattern(arr) {
+            let result = false
+
+            for (let i = 0; i < arr.length; i++) {
+                sp = arr[i].split('?')
+                if (sp.length > 1) {
+                    sp = sp[1].split('&')
+                    for (let j = 0; j < sp.length; j++) {
+                        if (sp[j] == 'unlockeq') {
+                            result = true
+                            break
+                        }
+                    }
+                    if (result) {
+                        break
+                    }
+                }
+            }
+            return result
+        }
+
+        function readCookieCfg() {
+            var sp = document.cookie.split(';')
+            var result = []
+            for (let i = 0; i < sp.length; i++) {
+                var sp2 = sp[i].trim().split('=')
+                if (sp2.length > 1) {
+                    if (sp2[1] == 'k100_visited') {
+                        result.push(sp2[0])
+                    }
+                }
+            }
+            return result
+        }
+
+
+        var url_visited = readCookieCfg()
+
+        window.extraContentUnlocked = chkHistoryPattern(url_visited)
+    </script>
+    
+
+</head>
+
+<body>
+    <img src="https://assets.yande.re/assets/logo_small-418e8d5ec0229f274edebe4af43b01aa29ed83b715991ba14bb41ba06b5b57b5.png" style="width: 100%; margin-left: -10%">
+
+    
+
+    
+
+    
+    <div id="footer">
+        <div id="links">
+            <div class="linkitem">
+                <button class="linkbtn" onclick="window.location='../q'">Q</button>
+            </div>
+            <div class="linkspace"></div>
+            <div class="linkitem">
+                <button class="linkbtn" onclick="window.location='../e'">E</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    <script>
+        if (window.extraContentUnlocked != true) {
+            var lnk = document.getElementById('links')
+            lnk.remove()
+        }
+    </script>
+    
+</body>
+
+</html>
