@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 216,
-        "approver_id": null,
+        "approver_id": 11598,
         "author": "Mr_GT",
-        "change": 3519348,
+        "change": 3519617,
         "created_at": 1596900925,
         "creator_id": 25882,
         "file_ext": "jpg",
         "file_size": 561577,
         "file_url": "https://files.yande.re/image/04576092b96da62fca8146173232c914/yande.re%20669367%20animal_ears%20bunny_ears%20business_suit%20gun%20pantyhose%20reisen_udongein_inaba%20rin_falcon%20skirt_lift%20touhou.jpg",
-        "flag_detail": {
-            "created_at": "2020-08-08T15:35:25.816Z",
-            "flagged_by": "system",
-            "post_id": 669367,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -45,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/04576092b96da62fca8146173232c914/yande.re%20669367%20sample%20animal_ears%20bunny_ears%20business_suit%20gun%20pantyhose%20reisen_udongein_inaba%20rin_falcon%20skirt_lift%20touhou.jpg",
         "sample_width": 1080,
-        "score": 5,
+        "score": 7,
         "source": "https://i.pximg.net/img-original/img/2020/08/09/00/00/09/83538676_p0.jpg",
-        "status": "pending",
+        "status": "active",
         "tags": "animal_ears bunny_ears business_suit gun pantyhose reisen_udongein_inaba rin_falcon skirt_lift touhou",
-        "updated_at": 1596900925,
+        "updated_at": 1596932186,
         "width": 1107
     },
     {
