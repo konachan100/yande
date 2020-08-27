@@ -2,21 +2,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 211,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "BattlequeenYume",
-        "change": 3554141,
+        "change": 3556403,
         "created_at": 1598436220,
         "creator_id": 323282,
         "file_ext": "jpg",
         "file_size": 1345074,
         "file_url": "https://files.yande.re/image/6e296a8ad47773790697820b308865c7/yande.re%20676431%20animal_ears%20bunny_ears%20bunny_girl%20feet%20garter%20girls_frontline%20no_bra%20ots-14_%28girls_frontline%29%20ru_zhai.jpg",
-        "flag_detail": {
-            "created_at": "2020-08-26T10:03:40.472Z",
-            "flagged_by": "system",
-            "post_id": 676431,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -45,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/6e296a8ad47773790697820b308865c7/yande.re%20676431%20sample%20animal_ears%20bunny_ears%20bunny_girl%20feet%20garter%20girls_frontline%20no_bra%20ots-14_%28girls_frontline%29%20ru_zhai.jpg",
         "sample_width": 1053,
-        "score": 11,
+        "score": 17,
         "source": "https://i.pximg.net/img-original/img/2020/08/26/19/02/35/83948358_p0.jpg",
-        "status": "pending",
+        "status": "active",
         "tags": "animal_ears bunny_ears bunny_girl feet garter girls_frontline no_bra ots-14_(girls_frontline) ru_zhai",
-        "updated_at": 1598436220,
+        "updated_at": 1598531967,
         "width": 1120
     },
     {
