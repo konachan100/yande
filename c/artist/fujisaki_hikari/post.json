@@ -17,7 +17,7 @@
         "has_children": false,
         "height": 4036,
         "id": 703337,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/11f6a23bcbd483cefc7814c1d8d2d75c/yande.re%20703337%20sample%20fujisaki_hikari%20seifuku%20tagme.jpg",
         "sample_width": 1063,
-        "score": 11,
+        "score": 14,
         "source": "",
         "status": "active",
         "tags": "fujisaki_hikari seifuku tagme",
-        "updated_at": 1604678269,
+        "updated_at": 1605032394,
         "width": 2859
     },
     {
