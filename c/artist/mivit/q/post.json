@@ -324,21 +324,14 @@
     {
         "actual_preview_height": 300,
         "actual_preview_width": 167,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "Dreista",
-        "change": 3701927,
+        "change": 3709996,
         "created_at": 1605161408,
         "creator_id": 335993,
         "file_ext": "jpg",
         "file_size": 190261,
         "file_url": "https://files.yande.re/image/03518fe2c3e49b9197faf5c98537a0c4/yande.re%20705098%20mivit%20naked%20tagme%20wings.jpg",
-        "flag_detail": {
-            "created_at": "2020-11-12T06:10:08.155Z",
-            "flagged_by": "system",
-            "post_id": 705098,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -367,11 +360,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/03518fe2c3e49b9197faf5c98537a0c4/yande.re%20705098%20sample%20mivit%20naked%20tagme%20wings.jpg",
         "sample_width": 833,
-        "score": 3,
+        "score": 4,
         "source": "https://twitter.com/Miv4t_/status/1316360382194180096",
-        "status": "pending",
+        "status": "active",
         "tags": "mivit naked tagme wings",
-        "updated_at": 1605161416,
+        "updated_at": 1605552713,
         "width": 1000
     },
     {
