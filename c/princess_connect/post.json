@@ -48,21 +48,14 @@
     {
         "actual_preview_height": 135,
         "actual_preview_width": 300,
-        "approver_id": null,
+        "approver_id": 25882,
         "author": "\u4eb2\u81ea\u90e8\u7f72\uff0c\u4eb2\u81ea\u6307\u6325\uff0c\u4eb2\u81ea\u5f97\u75c5",
-        "change": 3714481,
+        "change": 3721463,
         "created_at": 1605773725,
         "creator_id": 457320,
         "file_ext": "png",
         "file_size": 1186095,
         "file_url": "https://files.yande.re/image/4a719c82a88344d8bd31f161a876da87/yande.re%20707785%20armor%20dan_%28kumadan%29%20pecorine%20princess_connect%20princess_connect%21_re%3Adive%20skirt_lift%20sword.png",
-        "flag_detail": {
-            "created_at": "2020-11-19T08:15:25.680Z",
-            "flagged_by": "system",
-            "post_id": 707785,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -91,11 +84,11 @@
         "sample_height": 677,
         "sample_url": "https://files.yande.re/sample/4a719c82a88344d8bd31f161a876da87/yande.re%20707785%20sample%20armor%20dan_%28kumadan%29%20pecorine%20princess_connect%20princess_connect%21_re%3Adive%20skirt_lift%20sword.jpg",
         "sample_width": 1500,
-        "score": 2,
+        "score": 4,
         "source": "https://i.pximg.net/img-original/img/2020/11/19/17/10/49/85766188_p0.png",
-        "status": "pending",
+        "status": "active",
         "tags": "armor dan_(kumadan) pecorine princess_connect princess_connect!_re:dive skirt_lift sword",
-        "updated_at": 1605773761,
+        "updated_at": 1606056927,
         "width": 1920
     },
     {
