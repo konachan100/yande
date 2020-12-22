@@ -2,9 +2,9 @@
 # nohup ./run.sh > log.txt &
 while true
 do
-    echo '' > log.txt
+    echo 'rebuild site'
     bash update.sh
-    python3 trimlog.py
+    echo 'sleep'
     sleep 300s
 done
 
