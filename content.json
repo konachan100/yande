@@ -72,65 +72,32 @@
             ]
         },
         {
-            "name": "S.A.O.",
-            "tags": [
-                "sword_art_online"
-            ],
-            "build_path": "../c/sao/",
-            "discard": "old"
-        },
-        {
             "name": "Scenic",
             "tags": [
                 "scenic"
             ],
             "build_path": "../c/scenic/",
             "disard": "old"
-        },
-        {
-            "name": "Princess Connect",
-            "tags": [
-                "princess_connect"
-            ],
-            "build_path": "../c/princess_connect/",
-            "discard": "old"
         }
     ],
+    "copyright":[
+        { "tag":"gochuumon_wa_usagi_desu_ka?",                  "title":"Gochuumon Wa Usagi Desu Ka?" },
+        { "tag":"rokudenashi_majutsu_koushi_to_akashic_record", "title":"Rokudenashi Majutsu Koushi To Akashic Record" },
+        { "tag":"mahou_shoujo_madoka_magica",                   "title":"Mahou shoujo madoka magica" },
+        { "tag":"granblue_fantasy",                             "title":"Granblue Fantasy" },
+        { "tag":"arknights",                                    "title":"Arknights" },
+        { "tag":"sword_art_online",                             "title":"S.A.O." },
+        { "tag":"girls_frontline",                              "title":"Girls Frontline" },
+        { "tag":"azur_lane",                                    "title":"Azur Lane" },
+        { "tag":"princess_connect!",                            "title":"Princess Connect!" },
+        { "tag":"hyouka",                                       "title":"Hyouka" },
+        { "tag":"ookami_to_koushinryou",                        "title":"Ookami to Koushinryou (Spice and Wolf)" }
+    ],
     "artists": [
-        "natsumoka",
-        "anmi",
-        "annin_douhu",
-        "miwabe_sakura",
-        "edel",
-        "sousouman",
-        "ke-ta",
-        "mauve",
-        "onineko",
-        "miyase_mahiro",
-        "kino",
-        "mivit",
-        "hiten",
-        "fujisaki_hikari",
-        "higandgk",
-        "lium",
-        "mayogii",
-        "dekitani",
-        "ogata_tei",
-        "kedama_milk",
-        "ayakura_juu",
-        "refeia",
-        "swordsouls",
-        "yoruneko",
-        "ru_zhai",
-        "criin_(659503)",
-        "wlop",
-        "cangkong",
-        "r_o_ha",
-        "dangmyo",
-        "keiran_(ryo170)",
-        "kinoruru_toiro",
-        "ata_(tsumari)",
-        "nakkar"
+        "natsumoka", "anmi", "annin_douhu", "miwabe_sakura", "edel", "sousouman", "ke-ta", "mauve", "onineko", "miyase_mahiro", "kino", "mivit",
+        "hiten", "fujisaki_hikari", "higandgk", "lium", "mayogii", "dekitani", "ogata_tei", "kedama_milk", "ayakura_juu", "refeia",
+        "swordsouls", "yoruneko", "ru_zhai", "criin_(659503)", "wlop", "cangkong", "r_o_ha", "dangmyo", "keiran_(ryo170)", "kinoruru_toiro", 
+        "ata_(tsumari)", "nakkar", "iren_lovel"
     ],
     "loadonce": [
         {
