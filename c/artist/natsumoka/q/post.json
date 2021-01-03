@@ -50,12 +50,19 @@
         "actual_preview_width": 300,
         "approver_id": null,
         "author": "Dreista",
-        "change": 3449264,
+        "change": 3804613,
         "created_at": 1593760782,
         "creator_id": 335993,
         "file_ext": "jpg",
         "file_size": 14136189,
         "file_url": "https://files.yande.re/image/8fc9f938ad0cf6c7a3f543a44b7933b8/yande.re%20655843%20ass%20azur_lane%20dress%20massachusetts_%28azur_lane%29%20natsumoka%20no_bra%20south_dakota_%28azur_lane%29%20wet.jpg",
+        "flag_detail": {
+            "created_at": "2021-01-03T20:53:43.201Z",
+            "flagged_by": "BattlequeenYume",
+            "post_id": 655843,
+            "reason": "revision",
+            "user_id": 323282
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -86,9 +93,9 @@
         "sample_width": 1500,
         "score": 40,
         "source": "https://www.pixiv.net/artworks/82722524",
-        "status": "active",
+        "status": "flagged",
         "tags": "ass azur_lane dress massachusetts_(azur_lane) natsumoka no_bra south_dakota_(azur_lane) wet",
-        "updated_at": 1604357805,
+        "updated_at": 1609707223,
         "width": 4961
     }
 ]
