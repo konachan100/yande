@@ -17,7 +17,7 @@
         "has_children": false,
         "height": 4078,
         "id": 724033,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 1500,
         "sample_url": "https://files.yande.re/sample/3e0eae0e7ce190e25486b6462a757e7f/yande.re%20724033%20sample%20keiran_%28ryo170%29%20kimono.jpg",
         "sample_width": 1014,
-        "score": 8,
+        "score": 15,
         "source": "https://keiran10.fanbox.cc/posts/1761067",
         "status": "active",
         "tags": "keiran_(ryo170) kimono",
-        "updated_at": 1609593166,
+        "updated_at": 1610126658,
         "width": 2756
     },
     {
