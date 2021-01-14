@@ -17,7 +17,7 @@
         "has_children": true,
         "height": 5000,
         "id": 729838,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -38,11 +38,11 @@
         "sample_height": 852,
         "sample_url": "https://files.yande.re/sample/9910d1bf9376b1ee30185cc74b72fdb9/yande.re%20729838%20sample%20ghostblade%20lenia%20wlop.jpg",
         "sample_width": 1500,
-        "score": 6,
+        "score": 7,
         "source": "",
         "status": "active",
         "tags": "ghostblade lenia wlop",
-        "updated_at": 1610402723,
+        "updated_at": 1610587500,
         "width": 8800
     },
     {
