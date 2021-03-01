@@ -416,21 +416,14 @@
     {
         "actual_preview_height": 163,
         "actual_preview_width": 300,
-        "approver_id": null,
+        "approver_id": 11598,
         "author": "Thorcsf",
-        "change": 3914716,
+        "change": 3929377,
         "created_at": 1613966445,
         "creator_id": 288478,
         "file_ext": "jpg",
         "file_size": 536379,
         "file_url": "https://files.yande.re/image/064cb1df224da485b70086ecb138c00e/yande.re%20747138%20mecha_musume%20mermaid%20monster_girl%20topless%20wlop%20yuri.jpg",
-        "flag_detail": {
-            "created_at": "2021-02-22T04:00:45.542Z",
-            "flagged_by": "system",
-            "post_id": 747138,
-            "reason": "low-res",
-            "user_id": null
-        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -461,9 +454,9 @@
         "sample_width": 1500,
         "score": 5,
         "source": "https://www.pixiv.net/artworks/87833631",
-        "status": "pending",
+        "status": "active",
         "tags": "mecha_musume mermaid monster_girl topless wlop yuri",
-        "updated_at": 1613966446,
+        "updated_at": 1614619768,
         "width": 1868
     },
     {
