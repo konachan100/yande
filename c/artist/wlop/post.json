@@ -109,7 +109,7 @@
         "has_children": true,
         "height": 5000,
         "id": 751189,
-        "is_held": true,
+        "is_held": false,
         "is_note_locked": false,
         "is_pending": false,
         "is_rating_locked": false,
@@ -130,11 +130,11 @@
         "sample_height": 843,
         "sample_url": "https://files.yande.re/sample/0aef68d5e51f3e939dc2983fd930a6b1/yande.re%20751189%20sample%20aeolian%20armor%20bikini_top%20ghostblade%20skirt_lift%20swimsuits%20wlop.jpg",
         "sample_width": 1500,
-        "score": 6,
+        "score": 9,
         "source": "",
         "status": "active",
         "tags": "aeolian armor bikini_top ghostblade skirt_lift swimsuits wlop",
-        "updated_at": 1614792798,
+        "updated_at": 1615490874,
         "width": 8900
     },
     {
