@@ -326,12 +326,19 @@
         "actual_preview_width": 211,
         "approver_id": null,
         "author": "Arsy",
-        "change": 3723905,
+        "change": 3962653,
         "created_at": 1605630737,
         "creator_id": 366544,
         "file_ext": "png",
         "file_size": 7472682,
         "file_url": "https://files.yande.re/image/6f347a6db1292bcb22bc171cfdd4d487/yande.re%20707249%20fujisaki_hikari%20lingerie%20no_bra%20pantsu.png",
+        "flag_detail": {
+            "created_at": "2021-03-17T22:38:03.032Z",
+            "flagged_by": "kiyoe",
+            "post_id": 707249,
+            "reason": "replaced / rework. re adjust, filter. illustration\u2018s color, re cleaning.",
+            "user_id": 220654
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -362,9 +369,9 @@
         "sample_width": 1053,
         "score": 69,
         "source": "",
-        "status": "active",
+        "status": "flagged",
         "tags": "fujisaki_hikari lingerie no_bra pantsu",
-        "updated_at": 1605630750,
+        "updated_at": 1616020683,
         "width": 3265
     },
     {
