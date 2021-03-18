@@ -188,12 +188,19 @@
         "actual_preview_width": 211,
         "approver_id": null,
         "author": "Arsy",
-        "change": 3712584,
+        "change": 3962686,
         "created_at": 1605631292,
         "creator_id": 366544,
         "file_ext": "png",
         "file_size": 9259927,
         "file_url": "https://files.yande.re/image/35643a348c6d6d9a7f92763f40d66bc4/yande.re%20707279%20bra%20cameltoe%20miyase_mahiro%20pantsu%20seifuku%20shimapan%20shirt_lift%20skirt_lift.png",
+        "flag_detail": {
+            "created_at": "2021-03-17T22:40:30.695Z",
+            "flagged_by": "kiyoe",
+            "post_id": 707279,
+            "reason": "replaced / rework. re adjust, filter. illustration\u2018s color, re cleaning.",
+            "user_id": 220654
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -224,9 +231,9 @@
         "sample_width": 1056,
         "score": 108,
         "source": "",
-        "status": "active",
+        "status": "flagged",
         "tags": "bra cameltoe miyase_mahiro pantsu seifuku shimapan shirt_lift skirt_lift",
-        "updated_at": 1605631299,
+        "updated_at": 1616020830,
         "width": 3268
     },
     {
