@@ -372,12 +372,19 @@
         "actual_preview_width": 208,
         "approver_id": null,
         "author": "Radioactive",
-        "change": 3863469,
+        "change": 4007287,
         "created_at": 1611832022,
         "creator_id": 1305,
         "file_ext": "png",
         "file_size": 2427991,
         "file_url": "https://files.yande.re/image/bb2e3db5413b266c5dd126377752de82/yande.re%20737162%20hashimoto_sana%20hiten%20hitenkei%20tagme.png",
+        "flag_detail": {
+            "created_at": "2021-04-07T04:56:09.278Z",
+            "flagged_by": "1181552377",
+            "post_id": 737162,
+            "reason": "1181552377",
+            "user_id": 515112
+        },
         "frames": [],
         "frames_pending": [],
         "frames_pending_string": "",
@@ -408,9 +415,9 @@
         "sample_width": 1042,
         "score": 30,
         "source": "",
-        "status": "active",
+        "status": "flagged",
         "tags": "hashimoto_sana hiten hitenkei tagme",
-        "updated_at": 1611832026,
+        "updated_at": 1617771369,
         "width": 2406
     },
     {
