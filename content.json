@@ -111,8 +111,8 @@
             "disard": "old"
         },
         {
-            "name": "Scenic | Origional Sunset H-Score",
-            "url": "<host>/post.json?limit=100&tags=sunset+order:score+scenic+original",
+            "name": "Scenic | Sunset H-Score",
+            "url": "<host>/post.json?limit=100&tags=sunset+order:score",
             "build_path": "../c/scenic/origional_sunset_hscore/"
         }
     ]
