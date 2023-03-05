@@ -1,0 +1,38 @@
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "*/5 * * * *"
+
+jobs:
+  update_site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup git
+        run: |
+          git config --global user.email "isn_cg@163.com"
+          git config --global user.name "isncg_ci"
+      - name: Clone konachan100.github.io
+        uses: sudosubin/git-clone-action@v1.0.1
+
+      - name: Clone konachan100-src
+        uses: sudosubin/git-clone-action@v1.0.1
+        with:
+          repository: konachan100/konachan100-src
+          path: src
+
+      - name: Setup build env
+        run: echo $GITHUB_RUN_NUMBER > src/buildcount.txt
+
+      - name: Build
+        run: |
+          cd src
+          bash gen.sh
+          cd ..
+      - name: Commit git change
+        run: |
+          git add --all .
+          git commit -m "Github CI update"
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
