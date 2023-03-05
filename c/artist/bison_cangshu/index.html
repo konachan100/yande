@@ -6,8 +6,6 @@
     <meta name="referrer" content="no-referrer">
     <title>Konachan100</title>
     
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
-    
     <style>
         body {
             background: #222222;
@@ -199,12 +197,6 @@
         window.extraContentUnlocked = chkHistoryPattern(url_visited)
     </script>
     
-    <script>
-        if (window.extraContentUnlocked!=true) {
-            window.location = '/'
-        }
-    </script>
-    
     
 </head>
 
@@ -212,47 +204,24 @@
     <img src="https://assets.yande.re/assets/logo_small-418e8d5ec0229f274edebe4af43b01aa29ed83b715991ba14bb41ba06b5b57b5.png" style="width: 40%; margin-left: -3%">
 
     
-    <div>
-        <div id="aplayer"></div>
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
-        <script>
-            const ap = new APlayer({
-                container: document.getElementById('aplayer'),
-                fixed: true,
-                audio: [
-                
-                {
-                    name: "Gensokyo Radio",
-                    artist: "Gensokyo Radio",
-                    loop: "one",
-                    url: "https://stream.gensokyoradio.net/1/",
-                    cover: "https://gensokyoradio.net/images/gr1.png"
-                },
-                           
-            ]
-        });
-        </script>
-    </div>
-    
 
     
 
 
-    
-    
     
     <div id="footer">
         <div id="links">
             <div class="linkitem">
-                <button class="linkbtn" onclick="window.location='../'">S</button>
+                <button class="linkbtn" onclick="window.location='./q'">Q</button>
             </div>
             <div class="linkspace"></div>
             <div class="linkitem">
-                <button class="linkbtn" onclick="window.location='../q'">Q</button>
+                <button class="linkbtn" onclick="window.location='./e'">E</button>
             </div>
         </div>
     </div>
+    
+    
     
     
     <script>
