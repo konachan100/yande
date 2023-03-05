@@ -63,8 +63,8 @@
                     "name": "Gensokyo Radio",
                     "artist": "Gensokyo Radio",
                     "loop": "one",
-                    "url": "http://stream.gensokyoradio.net:8000/stream/1/",
-                    "cover": "https://gensokyoradio.net/images/assets/gr-logo.png"
+                    "url": "https://stream.gensokyoradio.net/1/",
+                    "cover": "https://gensokyoradio.net/images/gr1.png"
                 }
             ],
             "characters": [
