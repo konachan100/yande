@@ -3,13 +3,13 @@
         "id": 1119053,
         "tags": "abutomato censored chitose_yuma futanari loli naked nipples puella_magi_madoka_magica",
         "created_at": 1694201218,
-        "updated_at": 1694201218,
+        "updated_at": 1694280308,
         "creator_id": 513205,
-        "approver_id": null,
+        "approver_id": 11598,
         "author": "Lzhom",
-        "change": 5662387,
+        "change": 5664072,
         "source": "",
-        "score": 3,
+        "score": 5,
         "md5": "e6b785151bd2120366a0ef0db36e8bd3",
         "file_size": 921210,
         "file_ext": "jpg",
@@ -32,7 +32,7 @@
         "is_rating_locked": false,
         "has_children": false,
         "parent_id": null,
-        "status": "pending",
+        "status": "active",
         "is_pending": false,
         "width": 1062,
         "height": 1505,
@@ -43,14 +43,7 @@
         "frames": [],
         "is_note_locked": false,
         "last_noted_at": 0,
-        "last_commented_at": 0,
-        "flag_detail": {
-            "post_id": 1119053,
-            "reason": "low-res",
-            "created_at": "2023-09-08T19:26:58.211Z",
-            "user_id": null,
-            "flagged_by": "system"
-        }
+        "last_commented_at": 0
     },
     {
         "id": 1115036,
