@@ -135,7 +135,7 @@
         "frames": [],
         "is_note_locked": false,
         "last_noted_at": 0,
-        "last_commented_at": 1735992344
+        "last_commented_at": 0
     },
     {
         "id": 1213563,
@@ -147,7 +147,7 @@
         "author": "KenB",
         "change": 6239511,
         "source": "https://i.pximg.net/img-original/img/2024/12/10/14/47/06/125062862_p0.png",
-        "score": 16,
+        "score": 23,
         "md5": "68b02aaf8f0f0fff332cb164be2a50e4",
         "file_size": 8782958,
         "file_ext": "png",
@@ -975,7 +975,7 @@
         "author": "Genex",
         "change": 6201115,
         "source": "https://i.pximg.net/img-original/img/2024/12/01/02/53/43/124787887_p0.png",
-        "score": 32,
+        "score": 33,
         "md5": "9f74a486b4a6dd84ac1721bc546ceeb0",
         "file_size": 20522951,
         "file_ext": "png",
