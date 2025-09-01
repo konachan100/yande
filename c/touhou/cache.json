@@ -3,13 +3,13 @@
         "id": 1242180,
         "tags": "animal_ears censored homura_shinji imaizumi_kagerou inumimi naked nipples penis pubic_hair pussy sex touhou",
         "created_at": 1756538209,
-        "updated_at": 1756538209,
+        "updated_at": 1756678464,
         "creator_id": 354710,
-        "approver_id": null,
+        "approver_id": 11598,
         "author": "HotdogStorm",
-        "change": 6427223,
+        "change": 6427610,
         "source": "https://skeb.jp/@zeke_hdash/works/128",
-        "score": 2,
+        "score": 16,
         "md5": "b52c34715cb52dcb28351081bec40319",
         "file_size": 863972,
         "file_ext": "png",
@@ -32,7 +32,7 @@
         "is_rating_locked": false,
         "has_children": false,
         "parent_id": null,
-        "status": "pending",
+        "status": "active",
         "is_pending": false,
         "width": 1553,
         "height": 1110,
@@ -43,14 +43,7 @@
         "frames": [],
         "is_note_locked": false,
         "last_noted_at": 0,
-        "last_commented_at": 0,
-        "flag_detail": {
-            "post_id": 1242180,
-            "reason": "low-res",
-            "created_at": "2025-08-30T07:16:49.292Z",
-            "user_id": null,
-            "flagged_by": "system"
-        }
+        "last_commented_at": 0
     },
     {
         "id": 1241729,
